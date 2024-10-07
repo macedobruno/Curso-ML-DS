@@ -1,0 +1,296 @@
+7.3s 1 /kaggle/input/telecusts-prediction-k-nearest-neighbors/__results__.html
+7.3s 2 /kaggle/input/telecusts-prediction-k-nearest-neighbors/__resultx__.html
+7.3s 3 /kaggle/input/telecusts-prediction-k-nearest-neighbors/__notebook__.ipynb
+7.3s 4 /kaggle/input/telecusts-prediction-k-nearest-neighbors/__output__.json
+7.3s 5 /kaggle/input/telecusts-prediction-k-nearest-neighbors/custom.css
+7.3s 6 /kaggle/input/telecusts-prediction-k-nearest-neighbors/__results___files/__results___19_1.png
+7.3s 7 /kaggle/input/telecusts-prediction-k-nearest-neighbors/__results___files/__results___49_0.png
+7.3s 8 /kaggle/input/knn-telecust/teleCust1000t.csv
+8.7s 9 region
+8.7s 10 region
+8.7s 11 3    344
+8.7s 12 2    334
+8.7s 13 1    322
+8.7s 14 Name: count, dtype: int64
+8.7s 15 -------------------------------------
+8.7s 16 tenure
+8.7s 17 tenure
+8.7s 18 72    31
+8.7s 19 24    20
+8.7s 20 48    20
+8.7s 21 3     20
+8.7s 22 5     19
+8.7s 23 ..
+8.7s 24 47     7
+8.7s 25 36     7
+8.7s 26 2      7
+8.7s 27 21     6
+8.7s 28 63     6
+8.7s 29 Name: count, Length: 72, dtype: int64
+8.7s 30 -------------------------------------
+8.7s 31 age
+8.7s 32 age
+8.7s 33 33    39
+8.7s 34 39    35
+8.7s 35 35    34
+8.7s 36 34    32
+8.7s 37 31    32
+8.7s 38 37    31
+8.7s 39 42    28
+8.7s 40 40    28
+8.7s 41 30    26
+8.7s 42 52    25
+8.7s 43 36    25
+8.7s 44 46    24
+8.7s 45 48    24
+8.7s 46 27    24
+8.7s 47 43    24
+8.7s 48 41    24
+8.7s 49 54    24
+8.7s 50 45    24
+8.7s 51 51    23
+8.7s 52 50    23
+8.7s 53 25    23
+8.7s 54 28    22
+8.7s 55 32    21
+8.7s 56 47    21
+8.7s 57 26    21
+8.7s 58 55    21
+8.7s 59 38    21
+8.7s 60 44    20
+8.7s 61 57    20
+8.7s 62 24    20
+8.7s 63 29    19
+8.7s 64 53    19
+8.7s 65 49    18
+8.7s 66 23    16
+8.7s 67 22    15
+8.7s 68 59    14
+8.7s 69 63    12
+8.7s 70 60    11
+8.7s 71 56    11
+8.7s 72 61    11
+8.7s 73 58    10
+8.7s 74 64    10
+8.7s 75 20    10
+8.7s 76 62     9
+8.7s 77 21     8
+8.7s 78 66     7
+8.7s 79 68     6
+8.7s 80 69     6
+8.7s 81 65     6
+8.7s 82 67     5
+8.7s 83 19     4
+8.7s 84 76     3
+8.7s 85 70     3
+8.7s 86 75     2
+8.7s 87 71     1
+8.7s 88 72     1
+8.7s 89 74     1
+8.7s 90 77     1
+8.7s 91 18     1
+8.7s 92 73     1
+8.7s 93 Name: count, dtype: int64
+8.7s 94 -------------------------------------
+8.7s 95 marital
+8.7s 96 marital
+8.7s 97 0    505
+8.7s 98 1    495
+8.7s 99 Name: count, dtype: int64
+8.7s 100 -------------------------------------
+8.7s 101 address
+8.7s 102 address
+8.7s 103 1     68
+8.7s 104 2     66
+8.7s 105 4     61
+8.7s 106 3     61
+8.7s 107 0     56
+8.7s 108 7     53
+8.7s 109 5     50
+8.7s 110 9     41
+8.7s 111 8     39
+8.7s 112 10    38
+8.7s 113 12    36
+8.7s 114 6     36
+8.7s 115 13    33
+8.7s 116 19    29
+8.7s 117 14    24
+8.7s 118 15    24
+8.7s 119 11    23
+8.7s 120 17    22
+8.7s 121 21    20
+8.7s 122 20    20
+8.7s 123 18    20
+8.7s 124 27    16
+8.7s 125 23    15
+8.7s 126 22    15
+8.7s 127 16    14
+8.7s 128 24    12
+8.7s 129 25    12
+8.7s 130 26    12
+8.7s 131 28    12
+8.7s 132 30    11
+8.7s 133 29     8
+8.7s 134 31     6
+8.7s 135 34     6
+8.7s 136 38     5
+8.7s 137 33     5
+8.7s 138 32     5
+8.7s 139 43     3
+8.7s 140 44     3
+8.7s 141 37     3
+8.7s 142 39     3
+8.7s 143 40     3
+8.7s 144 36     2
+8.7s 145 35     2
+8.7s 146 41     1
+8.7s 147 49     1
+8.7s 148 45     1
+8.7s 149 48     1
+8.7s 150 42     1
+8.7s 151 46     1
+8.7s 152 55     1
+8.7s 153 Name: count, dtype: int64
+8.7s 154 -------------------------------------
+8.7s 155 income
+8.7s 156 income
+8.7s 157 25.0     24
+8.7s 158 26.0     22
+8.7s 159 41.0     22
+8.7s 160 33.0     20
+8.7s 161 46.0     19
+8.7s 162 ..
+8.7s 163 224.0     1
+8.7s 164 460.0     1
+8.7s 165 114.0     1
+8.7s 166 95.0      1
+8.7s 167 359.0     1
+8.7s 168 Name: count, Length: 218, dtype: int64
+8.7s 169 -------------------------------------
+8.7s 170 ed
+8.7s 171 ed
+8.7s 172 2    287
+8.7s 173 4    234
+8.7s 174 3    209
+8.7s 175 1    204
+8.7s 176 5     66
+8.7s 177 Name: count, dtype: int64
+8.7s 178 -------------------------------------
+8.7s 179 employ
+8.7s 180 employ
+8.7s 181 0     106
+8.7s 182 1      66
+8.7s 183 2      59
+8.7s 184 5      54
+8.7s 185 4      52
+8.7s 186 3      50
+8.7s 187 7      48
+8.7s 188 6      44
+8.7s 189 9      39
+8.7s 190 8      38
+8.7s 191 11     34
+8.7s 192 12     32
+8.7s 193 15     30
+8.7s 194 10     30
+8.7s 195 13     28
+8.7s 196 21     22
+8.7s 197 20     20
+8.7s 198 18     20
+8.7s 199 22     20
+8.7s 200 19     19
+8.7s 201 25     17
+8.7s 202 16     17
+8.7s 203 17     16
+8.7s 204 24     14
+8.7s 205 23     14
+8.7s 206 14     13
+8.7s 207 27     10
+8.7s 208 29      9
+8.7s 209 31      9
+8.7s 210 35      9
+8.7s 211 26      8
+8.7s 212 30      8
+8.7s 213 33      7
+8.7s 214 37      5
+8.7s 215 28      5
+8.7s 216 34      4
+8.7s 217 36      4
+8.7s 218 40      3
+8.7s 219 32      3
+8.7s 220 43      3
+8.7s 221 39      3
+8.7s 222 41      2
+8.7s 223 44      2
+8.7s 224 45      2
+8.7s 225 47      1
+8.7s 226 38      1
+8.7s 227 Name: count, dtype: int64
+8.7s 228 -------------------------------------
+8.7s 229 retire
+8.7s 230 retire
+8.7s 231 0.0    953
+8.7s 232 1.0     47
+8.7s 233 Name: count, dtype: int64
+8.7s 234 -------------------------------------
+8.7s 235 gender
+8.7s 236 gender
+8.7s 237 1    517
+8.7s 238 0    483
+8.7s 239 Name: count, dtype: int64
+8.7s 240 -------------------------------------
+8.7s 241 reside
+8.7s 242 reside
+8.7s 243 1    375
+8.7s 244 2    272
+8.7s 245 3    138
+8.7s 246 4    120
+8.7s 247 5     60
+8.7s 248 6     29
+8.7s 249 7      4
+8.7s 250 8      2
+8.7s 251 Name: count, dtype: int64
+8.7s 252 -------------------------------------
+8.7s 253 custcat
+8.7s 254 custcat
+8.7s 255 3    281
+8.7s 256 1    266
+8.7s 257 4    236
+8.7s 258 2    217
+8.7s 259 Name: count, dtype: int64
+8.7s 260 -------------------------------------
+8.8s 261 <class 'pandas.core.frame.DataFrame'>
+8.8s 262 RangeIndex: 1000 entries, 0 to 999
+8.8s 263 Data columns (total 10 columns):
+8.8s 264 #   Column   Non-Null Count  Dtype
+8.8s 265 ---  ------   --------------  -----
+8.8s 266 0   region   1000 non-null   int64
+8.8s 267 1   tenure   1000 non-null   int64
+8.8s 268 2   age      1000 non-null   int64
+8.8s 269 3   marital  1000 non-null   int64
+8.8s 270 4   address  1000 non-null   int64
+8.8s 271 5   income   1000 non-null   float64
+8.8s 272 6   retire   1000 non-null   float64
+8.8s 273 7   gender   1000 non-null   int64
+8.8s 274 8   reside   1000 non-null   int64
+8.8s 275 9   custcat  1000 non-null   int64
+8.8s 276 dtypes: float64(2), int64(8)
+8.8s 277 memory usage: 78.2 KB
+10.9s 278 Train set: (800, 14) (800,)
+10.9s 279 Test set: (200, 14) (200,)
+11.2s 280 Accuracy score: 0.325
+11.4s 281 Accuracy score: 0.335
+11.4s 282 Accuracy score: 0.35
+11.5s 283 Accuracy score: 0.375
+32.1s 284 Accuracy score: 0.35
+34.4s 285 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+34.4s 286 warn(
+34.4s 287 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+34.4s 288 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+34.9s 289 [NbConvertApp] Writing 236847 bytes to __notebook__.ipynb
+36.4s 290 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+36.4s 291 warn(
+36.5s 292 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+36.5s 293 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+37.5s 294 [NbConvertApp] Support files will be in __results___files/
+37.5s 295 [NbConvertApp] Making directory __results___files
+37.5s 296 [NbConvertApp] Writing 362293 bytes to __results__.html
