@@ -1,0 +1,150 @@
+9.5s 1 <class 'pandas.core.frame.DataFrame'>
+9.5s 2 RangeIndex: 891 entries, 0 to 890
+9.5s 3 Data columns (total 15 columns):
+9.5s 4 #   Column       Non-Null Count  Dtype
+9.5s 5 ---  ------       --------------  -----
+9.5s 6 0   survived     891 non-null    int64
+9.5s 7 1   pclass       891 non-null    int64
+9.5s 8 2   sex          891 non-null    object
+9.5s 9 3   age          714 non-null    float64
+9.5s 10 4   sibsp        891 non-null    int64
+9.5s 11 5   parch        891 non-null    int64
+9.5s 12 6   fare         891 non-null    float64
+9.5s 13 7   embarked     889 non-null    object
+9.5s 14 8   class        891 non-null    category
+9.5s 15 9   who          891 non-null    object
+9.5s 16 10  adult_male   891 non-null    bool
+9.5s 17 11  deck         203 non-null    category
+9.5s 18 12  embark_town  889 non-null    object
+9.5s 19 13  alive        891 non-null    object
+9.5s 20 14  alone        891 non-null    bool
+9.5s 21 dtypes: bool(2), category(2), float64(2), int64(4), object(5)
+9.5s 22 memory usage: 80.7+ KB
+14.9s 23 SEX:
+14.9s 24 <class 'pandas.core.frame.DataFrame'>
+14.9s 25 Index: 889 entries, 0 to 890
+14.9s 26 Data columns (total 1 columns):
+14.9s 27 #   Column  Non-Null Count  Dtype
+14.9s 28 ---  ------  --------------  -----
+14.9s 29 0   male    889 non-null    bool
+14.9s 30 dtypes: bool(1)
+14.9s 31 memory usage: 7.8 KB
+14.9s 32 WHO:
+14.9s 33 <class 'pandas.core.frame.DataFrame'>
+14.9s 34 Index: 889 entries, 0 to 890
+14.9s 35 Data columns (total 2 columns):
+14.9s 36 #   Column  Non-Null Count  Dtype
+14.9s 37 ---  ------  --------------  -----
+14.9s 38 0   man     889 non-null    bool
+14.9s 39 1   woman   889 non-null    bool
+14.9s 40 dtypes: bool(2)
+14.9s 41 memory usage: 8.7 KB
+14.9s 42 ADULT MALE:
+14.9s 43 <class 'pandas.core.frame.DataFrame'>
+14.9s 44 Index: 889 entries, 0 to 890
+14.9s 45 Data columns (total 1 columns):
+14.9s 46 #   Column           Non-Null Count  Dtype
+14.9s 47 ---  ------           --------------  -----
+14.9s 48 0   adult_male_True  889 non-null    bool
+14.9s 49 dtypes: bool(1)
+14.9s 50 memory usage: 7.8 KB
+14.9s 51 EMBARK TOWN:
+14.9s 52 <class 'pandas.core.frame.DataFrame'>
+14.9s 53 Index: 889 entries, 0 to 890
+14.9s 54 Data columns (total 2 columns):
+14.9s 55 #   Column       Non-Null Count  Dtype
+14.9s 56 ---  ------       --------------  -----
+14.9s 57 0   Queenstown   889 non-null    bool
+14.9s 58 1   Southampton  889 non-null    bool
+14.9s 59 dtypes: bool(2)
+14.9s 60 memory usage: 8.7 KB
+14.9s 61 ALONE:
+14.9s 62 <class 'pandas.core.frame.DataFrame'>
+14.9s 63 Index: 889 entries, 0 to 890
+14.9s 64 Data columns (total 1 columns):
+14.9s 65 #   Column      Non-Null Count  Dtype
+14.9s 66 ---  ------      --------------  -----
+14.9s 67 0   alone_True  889 non-null    bool
+14.9s 68 dtypes: bool(1)
+14.9s 69 memory usage: 7.8 KB
+15.0s 70 <class 'pandas.core.frame.DataFrame'>
+15.0s 71 Index: 889 entries, 0 to 890
+15.0s 72 Data columns (total 10 columns):
+15.0s 73 #   Column           Non-Null Count  Dtype
+15.0s 74 ---  ------           --------------  -----
+15.0s 75 0   survived         889 non-null    int64
+15.0s 76 1   pclass           889 non-null    int64
+15.0s 77 2   fare             889 non-null    float64
+15.0s 78 3   male             889 non-null    bool
+15.0s 79 4   man              889 non-null    bool
+15.0s 80 5   woman            889 non-null    bool
+15.0s 81 6   adult_male_True  889 non-null    bool
+15.0s 82 7   Queenstown       889 non-null    bool
+15.0s 83 8   Southampton      889 non-null    bool
+15.0s 84 9   alone_True       889 non-null    bool
+15.0s 85 dtypes: bool(7), float64(1), int64(2)
+15.0s 86 memory usage: 33.9 KB
+15.5s 87 <class 'pandas.core.frame.DataFrame'>
+15.5s 88 Index: 889 entries, 0 to 890
+15.5s 89 Data columns (total 10 columns):
+15.5s 90 #   Column           Non-Null Count  Dtype
+15.5s 91 ---  ------           --------------  -----
+15.5s 92 0   survived         889 non-null    int64
+15.5s 93 1   pclass           889 non-null    int64
+15.5s 94 2   fare             889 non-null    float64
+15.5s 95 3   male             889 non-null    bool
+15.5s 96 4   man              889 non-null    bool
+15.5s 97 5   woman            889 non-null    bool
+15.5s 98 6   adult_male_True  889 non-null    bool
+15.5s 99 7   Queenstown       889 non-null    bool
+15.5s 100 8   Southampton      889 non-null    bool
+15.5s 101 9   alone_True       889 non-null    bool
+15.5s 102 dtypes: bool(7), float64(1), int64(2)
+15.5s 103 memory usage: 33.9 KB
+15.5s 104 <class 'pandas.core.frame.DataFrame'>
+15.5s 105 Index: 889 entries, 0 to 890
+15.5s 106 Data columns (total 9 columns):
+15.5s 107 #   Column           Non-Null Count  Dtype
+15.5s 108 ---  ------           --------------  -----
+15.5s 109 0   pclass           889 non-null    int64
+15.5s 110 1   fare             889 non-null    float64
+15.5s 111 2   male             889 non-null    bool
+15.5s 112 3   man              889 non-null    bool
+15.5s 113 4   woman            889 non-null    bool
+15.5s 114 5   adult_male_True  889 non-null    bool
+15.5s 115 6   Queenstown       889 non-null    bool
+15.5s 116 7   Southampton      889 non-null    bool
+15.5s 117 8   alone_True       889 non-null    bool
+15.5s 118 dtypes: bool(7), float64(1), int64(1)
+15.5s 119 memory usage: 26.9 KB
+16.0s 120 precision    recall  f1-score   support
+16.0s 121 
+16.0s 122 0       0.87      0.79      0.83       141
+16.0s 123 1       0.68      0.79      0.73        82
+16.0s 124 
+16.0s 125 accuracy                           0.79       223
+16.0s 126 macro avg       0.78      0.79      0.78       223
+16.0s 127 weighted avg       0.80      0.79      0.79       223
+16.0s 128 
+19.3s 129 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+19.3s 130 warn(
+19.3s 131 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+19.3s 132 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+19.8s 133 [NbConvertApp] Writing 389855 bytes to __notebook__.ipynb
+21.3s 134 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+21.3s 135 warn(
+21.3s 136 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+21.4s 137 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+22.4s 138 [NbConvertApp] Support files will be in __results___files/
+22.4s 139 [NbConvertApp] Making directory __results___files
+22.4s 140 [NbConvertApp] Making directory __results___files
+22.4s 141 [NbConvertApp] Making directory __results___files
+22.4s 142 [NbConvertApp] Making directory __results___files
+22.4s 143 [NbConvertApp] Making directory __results___files
+22.4s 144 [NbConvertApp] Making directory __results___files
+22.4s 145 [NbConvertApp] Making directory __results___files
+22.4s 146 [NbConvertApp] Making directory __results___files
+22.4s 147 [NbConvertApp] Making directory __results___files
+22.4s 148 [NbConvertApp] Making directory __results___files
+22.4s 149 [NbConvertApp] Making directory __results___files
+22.4s 150 [NbConvertApp] Writing 357921 bytes to __results__.html
