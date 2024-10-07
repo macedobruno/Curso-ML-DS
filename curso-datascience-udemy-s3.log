@@ -1,0 +1,15 @@
+9.8s 1 Requirement already satisfied: scikit-learn in /opt/conda/lib/python3.10/site-packages (1.2.2)
+9.8s 2 Requirement already satisfied: numpy>=1.17.3 in /opt/conda/lib/python3.10/site-packages (from scikit-learn) (1.26.4)
+9.8s 3 Requirement already satisfied: scipy>=1.3.2 in /opt/conda/lib/python3.10/site-packages (from scikit-learn) (1.11.4)
+9.8s 4 Requirement already satisfied: joblib>=1.1.1 in /opt/conda/lib/python3.10/site-packages (from scikit-learn) (1.4.2)
+9.8s 5 Requirement already satisfied: threadpoolctl>=2.0.0 in /opt/conda/lib/python3.10/site-packages (from scikit-learn) (3.2.0)
+44.6s 6 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+44.6s 7 warn(
+44.6s 8 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+44.7s 9 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+45.1s 10 [NbConvertApp] Writing 25392 bytes to __notebook__.ipynb
+46.6s 11 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+46.6s 12 warn(
+46.6s 13 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+46.6s 14 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+47.5s 15 [NbConvertApp] Writing 296197 bytes to __results__.html
