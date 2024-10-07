@@ -1,0 +1,69 @@
+7.2s 1 /kaggle/input/winequality-red/winequality-red.csv
+7.2s 2 /kaggle/input/k/hsachin121/winequality-red/__results__.html
+7.2s 3 /kaggle/input/k/hsachin121/winequality-red/__notebook__.ipynb
+7.2s 4 /kaggle/input/k/hsachin121/winequality-red/__output__.json
+7.2s 5 /kaggle/input/k/hsachin121/winequality-red/custom.css
+7.2s 6 /kaggle/input/k/hsachin121/winequality-red/__results___files/__results___7_1.png
+8.9s 7 <class 'pandas.core.frame.DataFrame'>
+8.9s 8 RangeIndex: 1599 entries, 0 to 1598
+8.9s 9 Data columns (total 12 columns):
+8.9s 10 #   Column                Non-Null Count  Dtype
+8.9s 11 ---  ------                --------------  -----
+8.9s 12 0   fixed acidity         1599 non-null   float64
+8.9s 13 1   volatile acidity      1599 non-null   float64
+8.9s 14 2   citric acid           1599 non-null   float64
+8.9s 15 3   residual sugar        1599 non-null   float64
+8.9s 16 4   chlorides             1599 non-null   float64
+8.9s 17 5   free sulfur dioxide   1599 non-null   float64
+8.9s 18 6   total sulfur dioxide  1599 non-null   float64
+8.9s 19 7   density               1599 non-null   float64
+8.9s 20 8   pH                    1599 non-null   float64
+8.9s 21 9   sulphates             1599 non-null   float64
+8.9s 22 10  alcohol               1599 non-null   float64
+8.9s 23 11  quality               1599 non-null   int64
+8.9s 24 dtypes: float64(11), int64(1)
+8.9s 25 memory usage: 150.0 KB
+17.5s 26 precision    recall  f1-score   support
+17.5s 27 
+17.5s 28 0       0.88      0.99      0.93       273
+17.5s 29 1       0.73      0.23      0.35        47
+17.5s 30 
+17.5s 31 accuracy                           0.88       320
+17.5s 32 macro avg       0.81      0.61      0.64       320
+17.5s 33 weighted avg       0.86      0.88      0.85       320
+17.5s 34 
+331.1s 35 precision    recall  f1-score   support
+331.1s 36 
+331.1s 37 0       0.90      0.99      0.94       273
+331.1s 38 1       0.82      0.38      0.52        47
+331.1s 39 
+331.1s 40 accuracy                           0.90       320
+331.1s 41 macro avg       0.86      0.68      0.73       320
+331.1s 42 weighted avg       0.89      0.90      0.88       320
+331.1s 43 
+333.5s 44 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+333.5s 45 warn(
+333.5s 46 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+333.5s 47 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+334.0s 48 [NbConvertApp] Writing 585122 bytes to __notebook__.ipynb
+335.5s 49 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+335.5s 50 warn(
+335.5s 51 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+335.6s 52 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+336.5s 53 [NbConvertApp] Support files will be in __results___files/
+336.5s 54 [NbConvertApp] Making directory __results___files
+336.5s 55 [NbConvertApp] Making directory __results___files
+336.5s 56 [NbConvertApp] Making directory __results___files
+336.5s 57 [NbConvertApp] Making directory __results___files
+336.5s 58 [NbConvertApp] Making directory __results___files
+336.5s 59 [NbConvertApp] Making directory __results___files
+336.5s 60 [NbConvertApp] Making directory __results___files
+336.5s 61 [NbConvertApp] Making directory __results___files
+336.5s 62 [NbConvertApp] Making directory __results___files
+336.5s 63 [NbConvertApp] Making directory __results___files
+336.5s 64 [NbConvertApp] Making directory __results___files
+336.5s 65 [NbConvertApp] Making directory __results___files
+336.5s 66 [NbConvertApp] Making directory __results___files
+336.5s 67 [NbConvertApp] Making directory __results___files
+336.5s 68 [NbConvertApp] Making directory __results___files
+336.5s 69 [NbConvertApp] Writing 343436 bytes to __results__.html
